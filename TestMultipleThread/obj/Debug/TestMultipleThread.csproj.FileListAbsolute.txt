@@ -1,0 +1,11 @@
+D:\Project\TestMultipleThread\TestMultipleThread\bin\Debug\TestMultipleThread.exe.config
+D:\Project\TestMultipleThread\TestMultipleThread\bin\Debug\TestMultipleThread.exe
+D:\Project\TestMultipleThread\TestMultipleThread\bin\Debug\TestMultipleThread.pdb
+D:\Project\TestMultipleThread\TestMultipleThread\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Project\TestMultipleThread\TestMultipleThread\bin\Debug\System.IO.Packaging.dll
+D:\Project\TestMultipleThread\TestMultipleThread\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Project\TestMultipleThread\TestMultipleThread\obj\Debug\TestMultipleThread.csprojAssemblyReference.cache
+D:\Project\TestMultipleThread\TestMultipleThread\obj\Debug\TestMultipleThread.csproj.CoreCompileInputs.cache
+D:\Project\TestMultipleThread\TestMultipleThread\obj\Debug\TestMultipleThread.csproj.CopyComplete
+D:\Project\TestMultipleThread\TestMultipleThread\obj\Debug\TestMultipleThread.exe
+D:\Project\TestMultipleThread\TestMultipleThread\obj\Debug\TestMultipleThread.pdb
